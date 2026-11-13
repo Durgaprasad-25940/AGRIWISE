@@ -27,3 +27,23 @@ python app.py
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+
+## Live Demo
+
+🚀 **Website:** https://agriwise-8omx.onrender.com
+
+💻 **GitHub Repository:** https://github.com/Durgaprasad-25940/AGRIWISE
+
+## Key Features
+
+- Crop Recommendation
+- Market Price Information
+- Government Schemes
+- Disaster Prediction
+- Soil Analysis
+
+## Technologies Used
+
+Python, Flask, Pandas, Scikit-learn, HTML, CSS, Gunicorn, Render.
+
+
